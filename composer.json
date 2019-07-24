@@ -1,0 +1,19 @@
+{
+	"name": "cmsgears/widget-social",
+	"description": "The Social Widget for CMSGears.",
+	"homepage": "https://www.cmsgears.org",
+	"type": "package",
+	"keywords": [ "yii", "yii2", "cmsgears", "widget", "social", "feeds", "share", "counts" ],
+	"license": "GPL-3.0-or-later",
+	"support": {
+		"resources": "https://www.cmsgears.org"
+	},
+	"autoload": {
+		"psr-4": {
+			"cmsgears\\widgets\\social\\": ""
+		}
+	},
+    "require": {
+        "cmsgears/module-core": "*"
+    }
+}
