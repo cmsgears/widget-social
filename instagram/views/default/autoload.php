@@ -10,7 +10,7 @@ $autoloadUrl		= $widget->autoloadUrl;
 			<div class="valign-center fa fa-circle-o-notch fa-4x fa-spin"></div>
 		</div>
 		<input type="hidden" name="widgetId" value="social-feeds-instagram" />
-		<input type="hidden" name="widgetClass" value="cmsgears\widgets\social\instagram\InstagramPosts" />
+		<input type="hidden" name="widgetClass" value="cmsgears\widgets\social\feeds\instagram\InstagramPosts" />
 		<span class="cmt-click"></span>
 	</div>
 </div>
