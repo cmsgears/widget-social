@@ -22,7 +22,7 @@ class SocialShare extends \cmsgears\core\common\base\Widget {
 
 	const ICON_SET_FA	= 'fab fa-';
 
-	const ICON_SET_CMTI	= 'cmti cmti-social-';
+	const ICON_SET_CMTI	= 'cmti cmti-brand cmti-brand-';
 
 	// Public -----------------
 
